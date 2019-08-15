@@ -1,0 +1,7 @@
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\bin\Debug\TestRepoFun.exe.config
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\bin\Debug\TestRepoFun.exe
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\bin\Debug\TestRepoFun.pdb
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\obj\Debug\TestRepoFun.csprojAssemblyReference.cache
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\obj\Debug\TestRepoFun.csproj.CoreCompileInputs.cache
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\obj\Debug\TestRepoFun.exe
+C:\Users\Agger\source\repos\TestRepoFun\TestRepoFun\obj\Debug\TestRepoFun.pdb
